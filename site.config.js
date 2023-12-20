@@ -6,6 +6,7 @@ const CONFIG = {
     role: "",
     bio: "",
     email: "jihoonmoon@g.seoultech.ac.kr",
+    linkedin: "",
     github: "moon34git",
     instagram: "accidentpronekidd",
   },
